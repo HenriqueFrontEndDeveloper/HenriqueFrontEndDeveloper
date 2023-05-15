@@ -1,4 +1,4 @@
-<h1> Olá! sou o <strong>Henrique Gabriel Moraes Denoni</strong> </h1>
+<h1> Olá! sou o Henrique Gabriel Moraes Denoni </h1>
 
 <p>Desde criança, sempre me interessei por tecnologia, especialmente computadores. Quando cheguei ao nono ano do ensino fundamental, comecei a estudar programação, começando com lógica de programação. Com o tempo, meu interesse em programação cresceu.
 
@@ -8,14 +8,14 @@ Além disso, tive a oportunidade de participar da etapa presencial da Olimpíada
 
 Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tornar um desenvolvedor web front end. Estou atualmente estudando e aprendendo as mais recentes tecnologias front end, com foco em aprimorar minhas habilidades em React JS. Estou animado com o futuro como desenvolvedor web e ansioso para continuar aprendendo e crescendo nesta área.</p>
 
-## Tecnologias que Utilizo no Dia a Dia
+<h2> Tecnologias que Utilizo no Dia a Dia </h2>
 <div>
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
     <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 </div>
 
-## Tecnologias que Possuo Conhecimento
+<h2> Tecnologias que Possuo Conhecimento </h2>
 <div>
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
     <img align="center" alt="Henrique-Python" height="30" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" style="max-width: 100%;">  
