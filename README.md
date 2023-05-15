@@ -7,3 +7,6 @@ Foi então que decidi estudar no IFRO - Campus Cacoal, o Instituto Federal de Ed
 Além disso, tive a oportunidade de participar da etapa presencial da Olimpíada Brasileira de Robótica (OBR), conquistando o título de campeão da etapa estadual em 2022. Empolgado com o sucesso, também participei novamente da competição em 2023, demonstrando minha paixão por programaçao.
 
 Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tornar um desenvolvedor web front end. Estou atualmente estudando e aprendendo as mais recentes tecnologias front end, com foco em aprimorar minhas habilidades em React JS. Estou animado com o futuro como desenvolvedor web e ansioso para continuar aprendendo e crescendo nesta área.
+
+## Tecnologias
+<img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
