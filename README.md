@@ -16,5 +16,5 @@ Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tor
 </div>
 
 ## Tecnologias que Possuo Conhecimento
-  <img align="center" alt="Henrique-Python" height="30" width="40" src="![Python-logo-notext svg](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/b1f258c3-1a23-48ac-8377-f58571233127)
+  <img align="center" alt="Henrique-Python" height="30" width="40" src="https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/b1f258c3-1a23-48ac-8377-f58571233127
 " style="max-width: 100%;">
