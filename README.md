@@ -18,5 +18,5 @@ Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tor
 ## Tecnologias que Possuo Conhecimento
 <div>
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-    <img align="center" alt="Henrique-Python" height="30" width="40" src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" style="max-width: 100%;">  
+    <img align="center" alt="Henrique-Python" height="30" width="40" src=["https://bobcares.com/wp-content/uploads/2022/06/mysql.png](https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png)" style="max-width: 100%;">  
 </div>
