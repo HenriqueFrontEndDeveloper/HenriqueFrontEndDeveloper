@@ -1,4 +1,4 @@
-<h1 style="color: red;"> Olá! sou o Henrique Gabriel Moraes Denoni </h1>
+<h1> Olá! sou o <strong>Henrique Gabriel Moraes Denoni</strong> </h1>
 
 <p>Desde criança, sempre me interessei por tecnologia, especialmente computadores. Quando cheguei ao nono ano do ensino fundamental, comecei a estudar programação, começando com lógica de programação. Com o tempo, meu interesse em programação cresceu.
 
