@@ -9,4 +9,4 @@ Além disso, tive a oportunidade de participar da etapa presencial da Olimpíada
 Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tornar um desenvolvedor web front end. Estou atualmente estudando e aprendendo as mais recentes tecnologias front end, com foco em aprimorar minhas habilidades em React JS. Estou animado com o futuro como desenvolvedor web e ansioso para continuar aprendendo e crescendo nesta área.
 
 ## Tecnologias
-<img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+![image](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/b5efe1c8-2742-4857-9e64-ac5cea2a4a11)
