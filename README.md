@@ -22,6 +22,6 @@ Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tor
 <div>
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="Henrique-MySql" height="30" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" style="max-width: 100%;">  
-  <img align="center" alt="Henrique-Php" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" style="max-width: 100%;">  
-  <img align="center" alt="Henrique-ReactNative" height="30" width="40" src="[https://cdn-icons-png.flaticon.com/512/5968/5968332.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="max-width: 100%;">  
+  <img align="center" alt="Henrique-ReactNative" height="30" width="40" src="![image](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/1d9fbbf4-39e8-478d-8408-fb710cb8f1ae)
+" style="max-width: 100%;">  
 </div>
