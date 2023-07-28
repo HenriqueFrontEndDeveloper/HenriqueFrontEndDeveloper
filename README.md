@@ -18,6 +18,8 @@
     <img align="center" alt="Henrique-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
     <img align="center" alt="Henrique-Vite" height="30" width="40" src="https://pt.vitejs.dev/logo.svg">
   </div>
+    <img align="center" alt="Henrique-Vite" height="30" width="40" src="[https://pt.vitejs.dev/logo.svg](https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png)">
+  </div>
 
   <h2 style="text-align: center;">Tecnologias que Possuo Conhecimento</h2>
   <div style="display: flex; justify-content: center; align-items: center;">
