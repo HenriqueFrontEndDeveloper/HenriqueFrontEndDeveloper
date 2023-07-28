@@ -16,7 +16,7 @@ Continuo me dedicando aos estudos e aprimorando minhas habilidades em React JS. 
     <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Henrique-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="max-width: 100%;">
-  <img align="center" alt="Henrique-Vue" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vitejs.dev%2Fguide%2F&psig=AOvVaw1eHHI6regHWPrybMEtnzgC&ust=1690591605570000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjf-M-WsIADFQAAAAAdAAAAABAE)" style="max-width: 100%;">
+  <img align="center" alt="Henrique-Vue" height="30" width="40" src="https://pt.vitejs.dev/logo.svg" style="max-width: 100%;">
 </div>
 
 <h2> Tecnologias que Possuo Conhecimento </h2>
