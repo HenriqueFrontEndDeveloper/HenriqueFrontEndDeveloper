@@ -1,12 +1,14 @@
 <h1> Olá! sou o Henrique Gabriel Moraes Denoni </h1>
 
-<p>Desde criança, sempre me interessei por tecnologia, especialmente computadores. Quando cheguei ao nono ano do ensino fundamental, comecei a estudar programação, começando com lógica de programação. Com o tempo, meu interesse em programação cresceu.
+<p>Desde criança, meu fascínio por tecnologia, especialmente computadores, cresceu. No nono ano do ensino fundamental, comecei a estudar programação, focando em lógica de programação. Com o tempo, meu interesse expandiu.
 
-Foi então que decidi estudar no IFRO - Campus Cacoal, o Instituto Federal de Educação, Ciência e Tecnologia de Rondônia. Durante meu tempo lá, aprendi Python no segundo ano e no terceiro ano comecei a me aprofundar em desenvolvimento web, além de estudar MySQL durante o segundo e terceiro ano.
+No IFRO - Campus Cacoal, aprimorei meus conhecimentos, aprendendo Python no segundo ano e focando em desenvolvimento web no terceiro. MySQL também fez parte do meu aprendizado.
 
-Além disso, tive a oportunidade de participar da etapa presencial da Olimpíada Brasileira de Robótica (OBR), conquistando o título de campeão da etapa estadual em 2022. Empolgado com o sucesso, também participei novamente da competição em 2023, demonstrando minha paixão por programaçao.
+Participar da Olimpíada Brasileira de Robótica foi um marco, sendo campeão estadual em 2022 e competindo novamente em 2023, fortalecendo minha paixão pela programação.
 
-Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tornar um desenvolvedor web front end. Estou atualmente estudando e aprendendo tecnologias front end, com foco em aprimorar minhas habilidades em React JS. Estou animado com o futuro como desenvolvedor web e ansioso para continuar aprendendo e crescendo nesta área.</p>
+Atualmente, sou desenvolvedor web front end junior, usando Vue 3, Vite e Quasar. Vue 3 traz interfaces reativas e rápidas, enquanto Vite agiliza o desenvolvimento. O Quasar oferece componentes prontos, tornando meu trabalho mais produtivo.
+
+Continuo me dedicando aos estudos e aprimorando minhas habilidades em React JS. Animado com meu futuro nesta área, estou pronto para enfrentar desafios e contribuir para a tecnologia e a web. Aprendizado constante é meu lema.</p>
 
 <h2> Tecnologias que Utilizo no Dia a Dia </h2>
 <div>
@@ -22,6 +24,5 @@ Com isso, a experiência que adquiri ao longo do tempo, decidi que queria me tor
 <div>
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="Henrique-MySql" height="30" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" style="max-width: 100%;">  
-  <img align="center" alt="Henrique-ReactNative" height="30" width="40" src="![image](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/448f4f69-a4f9-4efc-b725-310bd379d9b2)
-" style="max-width: 100%;">  
+  <img align="center" alt="Henrique-ReactNative" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" style="max-width: 100%;">  
 </div>
