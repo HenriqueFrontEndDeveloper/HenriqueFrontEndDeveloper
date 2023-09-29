@@ -16,7 +16,7 @@ Continuo me dedicando aos estudos e aprimorando minhas habilidades em React JS. 
 <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 <img align="center" alt="Henrique-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" style="max-width: 100%;">
 <img align="center" alt="Henrique-Vite" height="30" width="40" src="https://pt.vitejs.dev/logo.svg" style="max-width: 100%;">
-<img align="center" alt="Henrique-Vue" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMZmAEB0c7Qjn_6iDGUOoprDOu98lz61adxpJX_f8FaE-W0_5RvKkx9mrRU2NVNyDMWn0&usqp=CAU" style="max-width: 100%;">
+<img align="center" alt="Henrique-Quasar" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" style="max-width: 100%;">
 </div>
 
 <h2> Tecnologias que Possuo Conhecimento </h2>
