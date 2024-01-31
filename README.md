@@ -9,8 +9,3 @@
 <img align="center" alt="Henrique-Vite" height="30" width="40" src="https://pt.vitejs.dev/logo.svg" style="max-width: 100%;">
 <img align="center" alt="Henrique-Quasar" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" style="max-width: 100%;">
 </div>
-
-<h2> Tecnologias que possuo conhecimento </h2>
-<div>
-<img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
-</div>
