@@ -1,6 +1,6 @@
 <h1> Olá! sou o Henrique Gabriel Moraes Denoni </h1>
 
-<h2> Tecnologias que Utilizo no Dia a Dia </h2>
+<h2> Tecnologias que utilizo no dia a dia </h2>
 <div>
 <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
 <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
@@ -10,7 +10,7 @@
 <img align="center" alt="Henrique-Quasar" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" style="max-width: 100%;">
 </div>
 
-<h2> Tecnologias que Possuo Conhecimento </h2>
+<h2> Tecnologias que possuo conhecimento </h2>
 <div>
 <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
 </div>
