@@ -9,7 +9,7 @@
       style="width: 50px; height: 50px"
     >
   </div>
-  <div>
+  <div style="text-align: center;">
     oi
   </div>
 </div>
