@@ -1,27 +1,10 @@
 <h2 style="text-align: center;">
     Frontend - Tecnologias
 </h2>
-<div style="display: flex; align-items: center; justify-content: center; text-align: center;">
-    <span>
-        <div style="margin-right: 10px;">
-            <img 
-                src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png"
-                alt="Vue3" 
-                style="width: 50px; height: 50px;"
-            >
-            <img 
-                src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png"
-                alt="Vue3" 
-                style="width: 50px; height: 50px;"
-            >
-        </div>
-        <div>
-            <h4 style="margin: 0;">
-                Avançado
-            </h4>
-            <h4 style="margin: 0;">
-                Avançado
-            </h4>
-        </div>
-    </span>
+<div>
+    <img 
+        src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png"
+        alt="Vue3" 
+        style="width: 70px; height: 70px;"
+    >
 </div>
