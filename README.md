@@ -2,7 +2,7 @@
   Frontend - Tecnologias
 </h2>
 <div>
-  <img src="![image](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/4c0ae4b2-3d12-4822-a8cf-fa4a901f318e)" alt=Vue3">
+  <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" alt=Vue3">
 </div>
 
 <!-- <h2>
