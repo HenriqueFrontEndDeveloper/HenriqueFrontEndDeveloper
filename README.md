@@ -32,4 +32,5 @@
         alt="Typescript" 
         style="width: 70px; height: 70px;"
     >
+    oi
 </div>
