@@ -10,7 +10,9 @@
     >
   </div>
   <div style="text-align: center;">
-    oi
+    <h4>
+      Avançado
+    </h4>
   </div>
 </div>
 
