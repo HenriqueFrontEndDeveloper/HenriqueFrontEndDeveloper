@@ -17,7 +17,7 @@
 
   <div>
     <img 
-      src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw1ko5a9LPGF5mZL4QbS8YCs&ust=1712886314910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICTlPSEuYUDFQAAAAAdAAAAABAE" 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" 
       alt="Vue3"
       style="width: 80px; height: 80px;"
     >
