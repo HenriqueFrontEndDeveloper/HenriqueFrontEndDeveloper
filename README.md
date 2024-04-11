@@ -44,3 +44,17 @@
         style="width: 70px; height: 70px;"
     >
 </div>
+<h2 style="text-align: center;">
+    Sobre
+</h2>
+<div>
+    <p>
+        Atualmente iniciando estudos sobre backend e lendo Clean Code.
+    </p>
+    <p>
+        Conhecimento em Clean Code e Clean Architecture
+    </p>
+    <p>
+        Três meses de experiência desenvolvendo frontend na OwlCode.
+    </p>
+</div>
