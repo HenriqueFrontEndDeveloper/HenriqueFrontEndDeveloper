@@ -14,4 +14,17 @@
       Avançado
     </h4>
   </div>
+
+  <div>
+    <img 
+      src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw1ko5a9LPGF5mZL4QbS8YCs&ust=1712886314910000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICTlPSEuYUDFQAAAAAdAAAAABAE" 
+      alt="Vue3"
+      style="width: 80px; height: 80px;"
+    >
+  </div>
+  <div style="text-align: center;">
+    <h4 style="margin: 0;">
+      Avançado
+    </h4>
+  </div>
 </div>
