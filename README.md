@@ -49,7 +49,7 @@
 </h2>
 <div>
     <p>
-        Atualmente iniciando estudos sobre backend e lendo Clean Code.
+        Atualmente iniciando estudos sobre backend e relendo Clean Code.
     </p>
     <p>
         Conhecimento em Clean Code e Clean Architecture.
