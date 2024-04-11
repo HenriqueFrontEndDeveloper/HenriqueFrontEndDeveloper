@@ -7,9 +7,6 @@
         alt="Html" 
         style="width: 70px; height: 70px;"
     >
-    <span>
-        oi
-    </span>
     <img 
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
         alt="CSS" 
@@ -35,5 +32,15 @@
         alt="Typescript" 
         style="width: 70px; height: 70px;"
     >
-    oi
+</div>
+
+<h2 style="text-align: center;">
+    Outras Tecnologias
+</h2>
+<div>
+    <img 
+        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+        alt="Html" 
+        style="width: 70px; height: 70px;"
+    >
 </div>
