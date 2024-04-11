@@ -1,7 +1,7 @@
 <h2>
   Frontend - Tecnologias
 </h2>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center; style="text-align: center;">
   <div>
     <img 
       src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" 
