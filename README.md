@@ -6,7 +6,7 @@
     <img 
       src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" 
       alt="Vue3"
-      style="width: 50px; height: 50px;"
+      style="width: 100px; height: 100px;"
     >
   </div>
   <div style="text-align: center;">
