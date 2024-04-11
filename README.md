@@ -19,6 +19,8 @@
             <h4 style="margin: 0;">
                 Avançado
             </h4>
+        </div>
+        <div>
             <h4 style="margin: 0;">
                 Avançado
             </h4>
