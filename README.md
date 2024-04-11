@@ -12,4 +12,14 @@
         alt="CSS" 
         style="width: 70px; height: 70px;"
     >
+    <img 
+        src="https://storage.googleapis.com/eti-academy/courses/curso-de-vue-3-_-plataforma-ead.png"
+        alt="CSS" 
+        style="width: 70px; height: 70px;"
+    >
+    <img 
+        src="https://upload.wikimedia.org/wikipedia/en/2/29/Quasar_Logo.png"
+        alt="CSS" 
+        style="width: 70px; height: 70px;"
+    >
 </div>
