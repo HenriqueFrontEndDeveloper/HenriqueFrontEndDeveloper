@@ -55,6 +55,6 @@
         Conhecimento em Clean Code e Clean Architecture.
     </p>
     <a>
-       Minhas Certificações 
+        [Minhas Certificações ](https://www.exemplo.com)
     </a>
 </div>
