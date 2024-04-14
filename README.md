@@ -54,7 +54,7 @@
     <p>
         Conhecimento em Clean Code e Clean Architecture.
     </p>
-    <p>
-        Três meses de experiência desenvolvendo frontend na OwlCode.
-    </p>
+    <a>
+       Minhas Certificações 
+    </a>
 </div>
