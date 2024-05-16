@@ -39,8 +39,7 @@
 </h2>
 <div>
     <img 
-        src="![image](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/5003c6f3-d4bd-40ff-b30a-4993adcc25ca)
-"
+        src="https://nitayneeman.com/images/thumbnails/angular.png"
         alt="Html" 
         style="width: 70px; height: 70px;"
     >
