@@ -35,6 +35,18 @@
 </div>
 
 <h2 style="text-align: center;">
+    Tecnologias processo de aprendizagem
+</h2>
+<div>
+    <img 
+        src="![image](https://github.com/henriqueWebDev/henriqueWebDev/assets/133139891/5003c6f3-d4bd-40ff-b30a-4993adcc25ca)
+"
+        alt="Html" 
+        style="width: 70px; height: 70px;"
+    >
+</div>
+
+<h2 style="text-align: center;">
     Outras Tecnologias
 </h2>
 <div>
@@ -49,7 +61,7 @@
 </h2>
 <div>
     <p>
-        Atualmente iniciando estudos sobre backend e relendo Clean Code.
+        Atualmente iniciando estudos sobre backend e Angular.
     </p>
     <p>
         Conhecimento em Clean Code e Clean Architecture.
