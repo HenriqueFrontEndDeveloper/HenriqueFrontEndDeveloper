@@ -37,13 +37,6 @@
 <h2 style="text-align: center;">
     Tecnologias processo de aprendizagem
 </h2>
-<div>
-    <img 
-        src="https://nitayneeman.com/images/thumbnails/angular.png"
-        alt="Html" 
-        style="width: 70px; height: 70px;"
-    >
-</div>
 
 <h2 style="text-align: center;">
     Outras Tecnologias
@@ -59,9 +52,6 @@
     Sobre
 </h2>
 <div>
-    <p>
-        Atualmente iniciando estudos sobre backend e Angular.
-    </p>
     <p>
         Conhecimento em Clean Code e Clean Architecture.
     </p>
